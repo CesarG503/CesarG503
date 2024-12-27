@@ -54,9 +54,7 @@ Puedes encontrar algunos de mis proyectos en mi perfil de GitHub. Aquí te dejo 
 
 Si tienes alguna duda o te gustaría colaborar en un proyecto, no dudes en contactarme. ¡Me encantaría hablar contigo!
 
-- 📧 **Correo electrónico**: [tu_email@dominio.com]
-- 🔗 **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-nombre/)
-- 🌐 **Portafolio**: [Tu portafolio o sitio web personal](https://www.tu-sitio-web.com)
+- 📧 **Correo electrónico**: cesargaray06@gmail.com
 
 ---
 <!--
