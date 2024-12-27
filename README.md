@@ -6,7 +6,7 @@ Soy estudiante de la **Universidad Nacional**, actualmente en mi **3er año** de
 
 ## 📚 Sobre mí
 
-Soy una persona curiosa y dedicada a aprender todo lo relacionado con la programación. En la universidad he tenido la oportunidad de trabajar con varios lenguajes de programación y tecnologías, y siempre trato de aplicar lo aprendido en proyectos prácticos.
+Soy una persona dedicada a aprender todo lo relacionado con la programación. En la universidad he tenido la oportunidad de trabajar con varios lenguajes de programación y tecnologías, y siempre trato de aplicar lo aprendido en proyectos prácticos.
 
 ### 💻 Lenguajes y Tecnologías que estoy aprendiendo:
 
